@@ -167,6 +167,9 @@ declare namespace Demo {
         image?: string;
         orders?: Demo.Customer[];
         inventoryStatus?: string;
+        department?: string;
+        sub_department?: string;
+        isRated?: boolean;
         representative: {
             name: string;
             image: string;

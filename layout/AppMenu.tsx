@@ -34,7 +34,8 @@ const AppMenu = () => {
             items: [
                 { label: 'Geri Bildirim', icon: 'pi pi-fw pi-thumbs-up', to: '/geri-bildirim-anket/geri-bildirim' },
                 { label: 'Memnuniyet Anketi', icon: 'pi pi-fw pi-thumbs-up', to: '/geri-bildirim-anket/memnuniyet-anketi' },
-                { label: 'Performans Anketi', icon: 'pi pi-fw pi-thumbs-up', to: '/geri-bildirim-anket/performans-anketi' }
+                { label: 'Performans Anketi', icon: 'pi pi-fw pi-thumbs-up', to: '/geri-bildirim-anket/performans-anketi' },
+                { label: '360 Değerlendirme', icon: 'pi pi-fw pi-thumbs-up', to: '/geri-bildirim-anket/360-degerlendirme' }
             ]
         },
         {
